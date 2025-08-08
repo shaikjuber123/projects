@@ -52,3 +52,9 @@ while True:
     
     else:
         print("invalid input!..")
+
+
+
+def add():
+    return 1
+print(add)
